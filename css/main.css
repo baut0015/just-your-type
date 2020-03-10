@@ -17,15 +17,3 @@ h3 {
 .rotate {
   transform: rotate(-2deg);
 }
-
-.think {
-  line-height: .5em;
-}
-
-.worl {
-  line-height: .9em;
-}
-
-.him {
-  line-height: 1em;
-}

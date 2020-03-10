@@ -187,17 +187,17 @@ menu {
 
 .nina {
   font-size: 4.2998rem;
-  line-height: 5.85rem;
+  line-height: .9em;
 }
 
 .yotta {
   font-size: 3.5832rem;
-  line-height: 4.875rem;
+  line-height: 1em;
 }
 
 .zetta {
   font-size: 2.986rem;
-  line-height: 3.9rem;
+  line-height: .5em;
 }
 
 h1,
@@ -582,17 +582,17 @@ legend {
 
   .nina {
     font-size: 5.9605rem;
-    line-height: 8.05rem;
+    line-height: .9em;
   }
 
   .yotta {
     font-size: 4.7684rem;
-    line-height: 6.3rem;
+    line-height: 1em;
   }
 
   .zetta {
     font-size: 3.8147rem;
-    line-height: 5.25rem;
+    line-height: .5em;
   }
 
   h1,
@@ -999,17 +999,17 @@ legend {
 
   .nina {
     font-size: 5.9605rem;
-    line-height: 7.875rem;
+    line-height: .9em;
   }
 
   .yotta {
     font-size: 4.7684rem;
-    line-height: 6.375rem;
+    line-height: 1em;
   }
 
   .zetta {
     font-size: 3.8147rem;
-    line-height: 5.25rem;
+    line-height: .5em;
   }
 
   h1,
@@ -1416,17 +1416,17 @@ legend {
 
   .nina {
     font-size: 4.2998rem;
-    line-height: 5.625rem;
+    line-height: .9em;
   }
 
   .yotta {
     font-size: 3.5832rem;
-    line-height: 4.875rem;
+    line-height: 1em;
   }
 
   .zetta {
     font-size: 2.986rem;
-    line-height: 4.125rem;
+    line-height: .5em;
   }
 
   h1,
