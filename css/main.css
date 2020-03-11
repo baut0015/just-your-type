@@ -15,5 +15,16 @@ h3 {
 }
 
 .rotate {
+
   transform: rotate(-2deg);
+  animation-name: rotate;
+  animation-duration: 3s;
+}
+
+@keyframes rotate {
+
+  from { transform: rotate(-2deg); }
+
+  to { transform: rotate(358deg); }
+
 }
